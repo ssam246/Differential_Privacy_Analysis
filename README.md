@@ -46,8 +46,7 @@ Follow the steps below to set up and run the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone [repository URL]
-   cd [repository folder]
+   git clone https://github.com/ssam246/Differential_Privacy_Analysis
    ```
 
 2. **Create a Virtual Environment**:
